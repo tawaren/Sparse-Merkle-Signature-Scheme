@@ -1,0 +1,4 @@
+round;hashValues;maxHashValues;leafValues;maxLeafValues
+32;49;49;96;96
+64;80;80;128;128
+96;49;80;96;128
